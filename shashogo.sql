@@ -1,0 +1,1 @@
+CREATE DATABASE shashogo_govt;
